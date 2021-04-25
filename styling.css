@@ -1,0 +1,100 @@
+body{
+	background-color: #f3f2f2
+}
+
+.head{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+#icon{
+	height: 30px;
+	width: 30px;
+	border-radius: 30px;
+}
+.h:hover{
+	text-decoration: underline;	
+}
+/*.d1{
+	background-color: grey;
+	background-image: url('file:///C:/Users/welcome/Desktop/project/greenField/images/leaf-texture_D71_5430-free-image.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 300px;
+	color: white;
+	text-align: center;
+	background-color: white;
+	margin: 0px 0px 10px 0px;
+	font-size: 90%;
+}*/
+.d1{
+	height: 300px;
+	text-align: center;
+	background-color: white;
+	margin: 0px 0px 10px 0px;
+}
+.d1 div{
+	margin: 5% auto;
+	/*color: black;*/
+	display: inline-block;
+}
+.spn1{
+	color: green;
+}
+.spn2{
+	color: orange;
+}
+.d1 h2{
+	color: grey;
+}
+
+
+/********PLANTS**********/
+#plants{
+	text-align: center;
+}
+.card{
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	margin: 0px 80px;
+}
+.card img{
+	height: 200px;
+	width: 200px;
+}
+/**************ABOUT************/
+
+#about{
+	font-size: 1.6rem;
+	padding: 1rem;
+	margin: 2rem;
+	text-align: justify;
+	background-color: white;
+}
+#about h2{
+	text-align: center;
+}
+#para{
+	padding: 0pc 2.8pc;
+	color: grey;
+}
+/*********************CONTACT*****************/
+#contact{
+	background-color: white;
+	margin: 2rem;
+	padding: 1rem;
+}
+#contact h2{
+	text-align: center;
+}
+#contact a{
+	text-decoration: none;
+	color: white;
+}
+/**********************FOOTER******************/
+#foot{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
