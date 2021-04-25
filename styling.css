@@ -98,3 +98,20 @@ body{
 	color: white;
 	text-align: center;
 }
+/***********************MEDIA QUIERY***************/
+@media (min-width: 100px) and (max-width: 800px){
+	#about{
+		font-size: 1rem;
+		padding: 10px;
+		margin: 10px;
+		text-align: justify;
+		background-color: white;
+	}
+	#about h2{
+		text-align: center;
+	}
+	#para{
+		padding: 0pc 10px;
+		color: grey;
+}
+}
